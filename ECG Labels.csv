@@ -1,0 +1,408 @@
+1, Non-cardiac
+3, Non-cardiac
+4, Non-cardiac
+5, Tachycardia+ ischemia 
+6, Non-cardiac
+8, Non-cardiac
+9, First degree AV block
+10, Tachycardia+ ischemia 
+11, Non-cardiac
+12, Ischemia
+14, Tachycardia
+15, Non-cardiac
+16, Tachycardia+ ischemia 
+19, Non-cardiac
+21, Ischemia
+22, Non-cardiac
+24, Non-cardiac
+25, Non-cardiac
+26, Non-cardiac
+27, Right Bundle branch block + ischemia
+28, Non-cardiac
+29, Non-cardiac
+30, Tachycardia+ ischemia 
+31, Non-cardiac
+32, Non-cardiac
+33, Tachycardia+ ischemia+ Right Bundle branch block 
+34, Non-cardiac
+35, Non-cardiac
+36, Ischemia
+37, Tachycardia+ long QT
+38, Tachycardia
+39, Non-cardiac
+40, Non-cardiac
+41, Non-cardiac
+42, Tachycardia
+43, Tachycardia
+111632, Non-cardiac
+122519, Tachycardia+ ischemia
+122536, Ischemia
+122547, PVC+ Ischemia
+122581, Non-cardiac
+122582, Ischemia
+122647, First degree AV block
+122697, Ischemia
+122700, Ischemia
+123717, Tachycardia
+123730, Non-cardiac
+123731, Non-cardiac
+123734, Non-cardiac
+123736, SA block
+123748, Non-cardiac
+123876, Non-cardiac
+124925, Low voltage
+126012, Non-cardiac
+126024, Atrial fibrillation
+126035-2, Non-cardiac
+126035-1, Non-cardiac
+126060, Non-cardiac
+126063, Ischemia
+126064, Tachycardia
+126068, Non-cardiac
+126071, Non-cardiac
+126208, Non-cardiac
+126234, Non-cardiac
+126267, Non-cardiac
+127349, Ischemia
+127354, Non-cardiac
+127465-1, Ischemia
+127465-2, Ischemia
+127481, Low voltage
+127578-2, Ischemia + atrial fibrillation
+127578-1, Ischemia + atrial fibrillation
+127583, Tachycardia
+127660, Non-cardiac
+127722, Non-cardiac
+127858, Ischemia
+128907, Non-cardiac
+128915, Tachycardia+ Ischemia
+130092, Non-cardiac
+130093, Non-cardiac
+130203, Non-cardiac
+130410, Ischemia
+130519, Low voltage
+130718, Non-cardiac
+130827, Tachycardia
+130828, Non-cardiac
+130838, Ischemia
+130841, Non-cardiac
+131893, Non-cardiac
+132023, Ischemia
+132098, Non-cardiac
+132162, Non-cardiac
+132163-1, Non-cardiac
+132163-2, Tachycardia+ Ischemia
+132170, Non-cardiac
+132317, Non-cardiac
+132355-1, Non-cardiac
+132355-2, Non-cardiac
+132372, Ischemia
+132478, Non-cardiac
+132499, Myocardial infarction
+132552, Non-cardiac
+132634, Non-cardiac
+132663-1, Non-cardiac
+132663-2, Non-cardiac
+132670, Non-cardiac
+132684, Non-cardiac
+132688, Non-cardiac
+132730, Non-cardiac
+132735, Ischemia
+132785, Non-cardiac
+132810-2, Tachycardia+ ischemia
+132810-1, Ischemia 
+132922, Non-cardiac
+133064-2, Ischemia
+133064-1, Ischemia
+133089, Non-cardiac
+133162, Non-cardiac
+134271, Atrial flutter
+134276, Non-cardiac
+136355, Non-cardiac
+136362, Non-cardiac
+136467, Sinus bradycardia
+136475, Non-cardiac
+136476, Non-cardiac
+136525, Non-cardiac
+136526, Non-cardiac
+136574, Non-cardiac
+136620, Non-cardiac
+136638, Ischemia
+136662, Ischemia
+136746, Non-cardiac
+136772-2, Non-cardiac
+136772-1, vt
+136792, Non-cardiac
+136883-2, Non-cardiac
+136883-1, Non-cardiac
+137040, Non-cardiac
+137099, Non-cardiac
+137105, Ischemia
+137116, Non-cardiac
+137209, Non-cardiac
+137218, Non-cardiac
+137221-2, Non-cardiac
+137221-1, Non-cardiac
+137349-2, Non-cardiac
+137349-1, Non-cardiac
+137358, Ischemia+ long QT
+137359, Non-cardiac
+137391, Non-cardiac
+137423, Non-cardiac
+137429, Ischemia
+137452, Ischemia
+137479, Ischemia
+137498, Non-cardiac
+137500, Non-cardiac
+137502, Non-cardiac
+137559, Low voltage
+137615-2, Non-cardiac
+137615-1, Non-cardiac
+137679, Non-cardiac
+137682, Non-cardiac
+137693, Non-cardiac
+137729, Non-cardiac
+137746-2, AV block
+137746-1, AV block
+137840, Non-cardiac
+137873, MI+ left bundle branch block
+137876, Non-cardiac
+137942, Non-cardiac
+137943, Non-cardiac
+137988-1, Myocardial infarction 
+137988-2, Myocardial infarction 
+137988-3, Myocardial infarction 
+138101-1, Non-cardiac 
+138101-2, Non-cardiac 
+138156, Tachycardia+ ischemia+ AF
+138159, Non-cardiac
+138165-1, Non-cardiac 
+138165-2, Non-cardiac 
+138173, Non-cardiac 
+138209, Non-cardiac 
+138255, Ischemia
+138271, Non-cardiac 
+138273, Non-cardiac 
+138285, Non-cardiac 
+138286, Non-cardiac 
+138288, Non-cardiac 
+138362-2, Non-cardiac 
+138362-1, Non-cardiac 
+138367-1, Non-cardiac 
+138367-2, Non-cardiac 
+138437, Non-cardiac
+138504, Non-cardiac
+138565, Non-cardiac
+138568-1, Non-cardiac
+138568-2, Non-cardiac
+138569, Sinus bradycardia 
+138571, Non-cardiac
+138599-1, Non-cardiac
+138599-2, Non-cardiac
+138619, Non-cardiac
+138621-1, Non-cardiac
+138621-2, Non-cardiac
+138622, Long QT
+138678, Non-cardiac
+138679, Non-cardiac
+138684, Non-cardiac
+138691, Non-cardiac
+138699-1, Non-cardiac
+138699-2, Non-cardiac
+138699-3, Non-cardiac
+138831, Non-cardiac
+138832-1, Non-cardiac
+138832-2, Non-cardiac
+138833, Non-cardiac
+138837, Non-cardiac
+138954, Non-cardiac
+138958, Non-cardiac
+138959, Non-cardiac
+139054, PAC
+139084, Non-cardiac
+139085, Non-cardiac
+139088, Non-cardiac
+139092, Non-cardiac
+139094, MI
+139156, Non-cardiac
+139162, Non-cardiac
+139238, Non-cardiac
+139248, Non-cardiac
+139312, Non-cardiac
+139320, Non-cardiac
+139382, Non-cardiac
+139532-1, Non-cardiac
+139532-2, Non-cardiac
+139535, Non-cardiac
+139752, Non-cardiac
+139765, Ischemia+ long QT
+139841-1, Non-cardiac
+139841-2, Non-cardiac
+139843, Non-cardiac
+139844, Non-cardiac
+139847, Non-cardiac
+139850-1, Ischemia
+139850-2, Ischemia
+139850-3, Ischemia
+139852, Non-cardiac
+139853, Non-cardiac
+139855, Non-cardiac
+139911, Ischemia
+140039, Non-cardiac
+140040, Non-cardiac
+140050, Non-cardiac
+140064-2, Ischemia+ tachycardia
+140064-1, Ischemia+ tachycardia
+140072, Non-cardiac
+140076, Non-cardiac
+140096, Non-cardiac
+140104, Non-cardiac
+140155, Non-cardiac
+140218, Non-cardiac
+140225, Non-cardiac
+140228, Non-cardiac
+140229, Non-cardiac
+140243-1, Ischemia
+140243-2, Ischemia
+140245, Left bundle branch block+ Ischemia
+140249, Non-cardiac
+140305, Non-cardiac
+140307, Non-cardiac
+140309-1, Ischemia
+140309-2, Ischemia
+140309-3, Ischemia
+1403354, Ischemia
+140489, Non-cardiac
+140590, Non-cardiac
+140691, Non-cardiac
+140735, Tachycardia
+141135, Tachycardia
+141836, Left bundle branch block
+141935, Non-cardiac
+142102-1, Ischemia
+142102-2, Ischemia
+142102-3, Non-cardiac
+142119, Non-cardiac
+142130, Non-cardiac
+142254, Non-cardiac
+142259, Left bundle branch block
+142315, Ischemia+ tachycardia
+142347, Non-cardiac
+142424, Non-cardiac
+142434, Non-cardiac
+142488, Non-cardiac
+142491, Non-cardiac
+142501, Non-cardiac
+142560-1, Ischemia+ tachycardia
+142560-2, Asystole
+142578, Non-cardiac
+142609, Ischemia
+142700, Tachycardia 
+142906-1, Non-cardiac
+142906-2, Non-cardiac
+142912, Non-cardiac
+142914, LEFT ANTERIOR HEMI block
+142917, PAC+ ischemia 
+142963, Non-cardiac
+143022, Non-cardiac
+143041, Non-cardiac
+143044, Non-cardiac
+143093, Non-cardiac
+143094, Non-cardiac
+144131, Non-cardiac
+146211-1, Non-cardiac
+146211-2, Non-cardiac
+146211-3, Non-cardiac
+146309, Non-cardiac
+148657, Non-cardiac
+148665, Non-cardiac
+148669, Non-cardiac
+148676, Non-cardiac
+148762-1, Non-cardiac
+148762-2, Non-cardiac
+148762-3, Non-cardiac
+148786, Ischemia
+148795-1, Non-cardiac
+148795-2, Non-cardiac
+148795-3, Non-cardiac
+148800, Non-cardiac
+150706-1, Myocardial infarction
+150706-2, Myocardial infarction
+150711, Non-cardiac
+150718, Non-cardiac
+150753, Non-cardiac
+150766, Ischemia
+150776-1, Non-cardiac
+150776-2, Non-cardiac
+150793, Non-cardiac
+150804, Long QT
+150808, Ischemia
+150821, Non-cardiac
+150874, Non-cardiac
+150903, Non-cardiac
+150999, Non-cardiac
+151015, Non-cardiac
+151158, Non-cardiac
+151209, Non-cardiac
+151241, Non-cardiac
+151574, PVC
+151671, Long QT
+151676, Non-cardiac
+151783, Non-cardiac
+151823, Non-cardiac
+151825, Non-cardiac
+151827-2, Non-cardiac
+151827-1, Ischemia 
+152908, Non-cardiac
+152911, Non-cardiac
+153017, Myocardial infarction
+155054, PVC
+155214-1, Non-cardiac
+155214-2, Non-cardiac
+155214-3, Non-cardiac
+155219, Non-cardiac
+155222, Non-cardiac
+155265-1, Non-cardiac
+155265-2, Non-cardiac
+156166, LONG QT
+156283, Non-cardiac
+156295, Myocardial infarction
+156839, PVC
+156889, PVC
+156927, Non-cardiac
+156938, Non-cardiac
+160321, Non-cardiac
+160381-1, LBBB+ MI
+160381-2, LBBB+ MI
+160829, Non-cardiac
+160843, Non-cardiac
+160954, LBBB
+163390, Non-cardiac
+163401, Non-cardiac
+164443, Non-cardiac
+164489, Non-cardiac
+164500, Non-cardiac
+164559, AF+RBBB
+164603, Non-cardiac
+164858, Non-cardiac
+165019, Non-cardiac
+165080, Non-cardiac
+165083, Non-cardiac
+165263, Non-cardiac
+165369, Non-cardiac
+165429, Non-cardiac
+165514, Non-cardiac
+165566, ISCHEMIA
+165611, Non-cardiac
+166783, Non-cardiac
+166909, AF
+166964, Non-cardiac
+167004, ISCHEMIA
+167071, Non-cardiac
+167119, Non-cardiac
+167179, Non-cardiac
+167243, Non-cardiac
+167314, Non-cardiac
+167320, Non-cardiac
+167391, Non-cardiac
+167459, Non-cardiac
